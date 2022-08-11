@@ -1,5 +1,5 @@
 # 💫About Me :
-🎓 I am currently pursuing my Bachelor's in Computer Science Engineering at Institut Teknologi Sepuluh Nopember
+🎓 I am a graduate bachelor student of Computer Science at Institut Teknologi Sepuluh Nopember
 
 📖 I am currently learning Golang and also interested in Back End Development.
 
