@@ -17,8 +17,5 @@ Thanks for coming!
 ![](https://github-readme-streak-stats.herokuapp.com/?user=prolifel&theme=graywhite&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=prolifel&theme=graywhite&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=prolifel&icon=1&color=0)](https://visitcount.itsvg.in)
