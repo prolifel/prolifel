@@ -1,4 +1,5 @@
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6ZJ2PCDZVTPB392n3rkKzU?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+[![image](https://user-images.githubusercontent.com/61197343/198939123-efd5ea44-2150-48db-8305-b489d25b6519.png)](https://open.spotify.com/track/6ZJ2PCDZVTPB392n3rkKzU?si=7a356acbdfad45d3)
+
 
 ## 💫About Me
 
