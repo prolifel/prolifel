@@ -1,18 +1,16 @@
-# 💫About Me :
-🎓 I am a graduate bachelor student of Computer Science
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6ZJ2PCDZVTPB392n3rkKzU?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+## 💫About Me
 
 📖 I am currently learning Golang and also interested in Back End Development.
 
-🔭 I’m currently working on myself HAHA
-
 Thanks for coming!
 
-# 💻Tech Stack
+## 💻Tech Stack
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)  ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=prolifel&theme=graywhite&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=prolifel&theme=graywhite&hide_border=true)<br/>
+## 📊 Stats
+![](https://github-readme-streak-stats.herokuapp.com/?user=prolifel&theme=graywhite&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=prolifel&theme=graywhite&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
