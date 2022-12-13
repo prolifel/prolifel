@@ -16,3 +16,4 @@ Thanks for coming!
 
 ---
 [![](https://visitcount.itsvg.in/api?id=prolifel&icon=1&color=0)](https://visitcount.itsvg.in)
+[![wakatime](https://wakatime.com/badge/user/5628aec5-620d-4f0d-85d5-f7b88d8519a0.svg)](https://wakatime.com/@5628aec5-620d-4f0d-85d5-f7b88d8519a0)
