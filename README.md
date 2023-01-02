@@ -1,6 +1,3 @@
-[![image](https://user-images.githubusercontent.com/61197343/198939123-efd5ea44-2150-48db-8305-b489d25b6519.png)](https://open.spotify.com/track/6ZJ2PCDZVTPB392n3rkKzU?si=7a356acbdfad45d3)
-
-
 ## 💫About Me
 
 📖 I am currently learning Golang and also interested in Back End Development.
